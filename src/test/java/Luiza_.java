@@ -1,0 +1,2 @@
+public class Luiza_ {
+}
